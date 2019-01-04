@@ -7,10 +7,10 @@
  - Output: Q8 protein secondary structure is a sequence of the same length as the corresponding amino acid sequence over an alphabet of 8 characters (G,H,I,T,E,B,S,-). The model should output a predicted sequence with the same length as the input sequence.
  
  #### Dataset
- - The dataset consists of 6,685 proteins. 
+ - The dataset consists of 6,685 sequence proteins. 
 
  #### Summary    
- - I attempted to predict protein secondary structure using sequence models.  best model, the model 3, yields an accuracy of 73.76% on the entire data set. 
+ - I attempted to predict protein secondary structure using sequence models.  My best model yields an accuracy of 73.76% on the entire data set. 
  
  #### Model Details:
  
